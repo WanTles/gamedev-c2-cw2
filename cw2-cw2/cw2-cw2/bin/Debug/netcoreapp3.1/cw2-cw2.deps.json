@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "cw2-cw1/1.0.0": {
+      "cw2-cw2/1.0.0": {
         "runtime": {
-          "cw2-cw1.dll": {}
+          "cw2-cw2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "cw2-cw1/1.0.0": {
+    "cw2-cw2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
